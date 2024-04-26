@@ -1,5 +1,4 @@
 ## practical-task2
-
 #Registration
 <img width="1028" alt="image" src="https://github.com/eakameneva/practical-task2/assets/119859011/dc070c81-1518-4398-b732-23bdeddd1a6f">
 #Authentication
